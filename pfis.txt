@@ -1,0 +1,28 @@
+MOCK PFI Info Doc
+
+The following PFIs are mocked when you run the PFI repo you cloned. The PFIs are created with the following information:
+
+## AquaFinance Capital
+Provides exchanges with the Ghanaian Cedis: GHS to USDC, GHS to KES
+
+did:dht:qewzcx3fj8uuq7y551deqdfd1wbe6ymicr8xnua3xzkdw4n6j3bo
+
+## SwiftLiquidity Solutions
+Offers exchange rates with the South African Rand: ZAR to BTC and EUR to ZAR.
+
+did:dht:zz3m6ph36p1d8qioqfhp5dh5j6xn49cequ1yw9jnfxbz1uyfnddy
+
+## FlowBank Financial
+Offers international rates with various currencies - USD to GBP, GBP to CAD.
+
+did:dht:gxwaxgihty7ar5u44gcmmdbw4ka1rbpj8agu4fom6tmsaz7aoffo
+
+## Vertex Liquid Assets
+Offers currency exchanges between African currencies - MAD to EGP, GHS to NGN.
+
+did:dht:7zkzxjf84xuy6icw6fyjcn3uw14fty4umqd3nc4f8ih881h6bjby
+
+## Titanium Trust
+Provides offerings to exchange USD to African currencies - USD to GHS, USD to KES.
+
+did:dht:kuggrw7nx3n4ehz455stdkdeuaekfjimhnbenpo8t4xz9gb8qzyy
